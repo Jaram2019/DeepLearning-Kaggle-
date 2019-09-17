@@ -1,5 +1,5 @@
 # DeepLearning_Kaggle
-Jaram 2019-2 Study
+Jaram 2019-2 Study with TensorFlow 2.0
 
 # Project
 [Kaggle](https://www.kaggle.com/competitions)
