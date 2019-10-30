@@ -566,3 +566,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# dataset
+*.csv
+*.zip
+train/
+data/
+autonomous_driving/dataset/
