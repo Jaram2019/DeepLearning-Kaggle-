@@ -571,3 +571,4 @@ dmypy.json
 *.zip
 train/
 data/
+autonomous_driving/dataset/
