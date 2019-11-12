@@ -8,6 +8,5 @@ Jaram 2019-2 Study with TensorFlow 2.0
 이하영</br>
 정병길</br>
 김나연</br>
-김민우</br>
 강은호</br>
 박상민
